@@ -30,4 +30,4 @@ This project aims to provide a website to help organizing the event (see [icares
 
 ### [🦣 MastoCN](https://github.com/3cn-ecn/MastoCN)
 
-A project to deploy a Mastodon instance for Centrale Nantes.
+A project to deploy a Mastodon instance and/or a PixelFed instance for Centrale Nantes.
