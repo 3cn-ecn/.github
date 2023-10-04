@@ -27,3 +27,7 @@ The full documentation of this project is available at [docs.nantral-platform.fr
 
 The ICARES are a competition tournament about artistic skills between the schools from the *Groupe des Écoles Centrale*.
 This project aims to provide a website to help organizing the event (see [icares-centrale.fr](https://icares-centrale.fr)).
+
+### [🦣 MastoCN](https://github.com/3cn-ecn/MastoCN)
+
+A project to deploy a Mastodon instance for Centrale Nantes.
